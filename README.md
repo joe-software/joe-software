@@ -4,4 +4,4 @@ I am a developer who loves writing code and has a passion for solving problems. 
 
 I also have a passion for Cybersecurity and am GIAC certified.
 
-| HTML/CSS | JavaScript | React.JS | Node.JS | Mongo DB | Express | EJS | 
+| HTML/CSS | JavaScript | React.JS | Node.JS | Nest.JS | 
